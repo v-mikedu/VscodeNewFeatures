@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorInauth", "RazorInauth\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorNoauth", "RazorNoauth\RazorNoauth.csproj", "{2334EDFD-7527-40BB-9AD0-13A55A77F333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcIndAuth", "MvcIndAuth\MvcIndAuth.csproj", "{82D2A5FF-9C5E-43F6-84AB-AB765DA091F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2334EDFD-7527-40BB-9AD0-13A55A77F333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2334EDFD-7527-40BB-9AD0-13A55A77F333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2334EDFD-7527-40BB-9AD0-13A55A77F333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D2A5FF-9C5E-43F6-84AB-AB765DA091F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D2A5FF-9C5E-43F6-84AB-AB765DA091F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D2A5FF-9C5E-43F6-84AB-AB765DA091F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D2A5FF-9C5E-43F6-84AB-AB765DA091F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

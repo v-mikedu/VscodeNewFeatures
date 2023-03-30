@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcNoAuth", "MvcNoAuth\MvcN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServer2", "BlazorServer2\BlazorServer2.csproj", "{AA1BD35C-DA97-45B4-BD21-14ED29A8DE8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{DF99E5B9-98D3-4109-B175-CDAA53DC3DAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{AA1BD35C-DA97-45B4-BD21-14ED29A8DE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA1BD35C-DA97-45B4-BD21-14ED29A8DE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA1BD35C-DA97-45B4-BD21-14ED29A8DE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF99E5B9-98D3-4109-B175-CDAA53DC3DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF99E5B9-98D3-4109-B175-CDAA53DC3DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF99E5B9-98D3-4109-B175-CDAA53DC3DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF99E5B9-98D3-4109-B175-CDAA53DC3DAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASM_WithHosted.Clien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASM_WithHosted.Shared", "BlazorWASM_WithHosted\Shared\BlazorWASM_WithHosted.Shared.csproj", "{8912BC98-D110-45D4-B087-1C6FEE79500B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASM_UncheckHosted", "BlazorWASM_UncheckHosted\BlazorWASM_UncheckHosted.csproj", "{53BD680F-F27A-433E-A2DB-B6D1C1CE0D81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{8912BC98-D110-45D4-B087-1C6FEE79500B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8912BC98-D110-45D4-B087-1C6FEE79500B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8912BC98-D110-45D4-B087-1C6FEE79500B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BD680F-F27A-433E-A2DB-B6D1C1CE0D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BD680F-F27A-433E-A2DB-B6D1C1CE0D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BD680F-F27A-433E-A2DB-B6D1C1CE0D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BD680F-F27A-433E-A2DB-B6D1C1CE0D81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
